@@ -1,0 +1,26 @@
+{
+  "name": "@lucky-cli-dream/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "leilei405 <1601178425@qq.com>",
+  "homepage": "https://github.com/leilei405/lucky-cli-dream#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leilei405/lucky-cli-dream.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/leilei405/lucky-cli-dream/issues"
+  }
+}
